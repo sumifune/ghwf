@@ -1,2 +1,2 @@
-# ghwf
-![](https://github.com/actions/hello-world/workflows/Greet%20Everyone/badge.svg)
+# ghwf 2
+![](https://github.com/sumifune/ghwf/workflows/.github/workflows/nodejs.yml/badge.svg)
