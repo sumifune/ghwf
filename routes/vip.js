@@ -3,7 +3,6 @@ var router = express.Router();
 
 /* GET users listing. */
 router.get('/', function(req, res, next) {
-  res.send('master');
-});
+  res.send('parallel-api');});
 
 module.exports = router;
